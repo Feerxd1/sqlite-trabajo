@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Android SQLite</string>
+    <string name="nombres">Ingrese Nombres</string>
+    <string name="apellidos">Ingrese Apellidos</string>
+    <string name="email">Ingrese E-mail</string>
+    <string name="clave">Ingrese Clave</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="formulario">Nueva Categoria</string>
+    <string name="nombre_categoria">Nombre Categoria</string>
+
+    <string name="nuevo_producto">Nuevo Producto</string>
+    <string name="nombre_producto">Nombre</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="precio">Precio</string>
+    <string name="stock">Stock</string>
+
+    <string name="login">Login</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="noregistrado">¿No estas registrado?</string>
+    <string name="registrar">Registrar</string>
+
+    <string name="menu3">Formulario Categoria</string>
+    <string name="menu4">Formulario Producto</string>
+    <string name="menu1">Login</string>
+    <string name="menu2">Registrarse</string>
+    <string name="menu5">Lista Productos</string>
+
+</resources>
